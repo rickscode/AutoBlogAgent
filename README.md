@@ -115,7 +115,3 @@ ATAAutoBlogger/
 
 ---
 
-## License
-This project is licensed under a private license. Unauthorized sharing or distribution is prohibited.
-
----
